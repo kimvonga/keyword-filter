@@ -1,0 +1,3 @@
+(1) Show the number of mentions across files
+(2) Show text surrounding keywords and highlight keywords
+(3?) Integrate with excel
