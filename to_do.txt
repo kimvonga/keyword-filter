@@ -1,6 +1,7 @@
-(1) Add more items to list of financial keywords
-(2) Apply Rake() to Q&A section
-(3) Think of other ways to plot/generate reports, including reports for multiple files
-(4) Show the number of mentions across files
-(5) Show text surrounding keywords and highlight keywords -- 3/1/21 probably abandon
-(?) Integrate with excel
+- Add more items to list of financial keywords
+- Apply Rake() to Q&A section
+- Plot occurence of more than 1 keyword to get at correlation
+- Think of other ways to plot/generate reports, including reports for multiple files
+- Show the number of mentions across files
+- Show text surrounding keywords and highlight keywords -- 3/1/21 probably abandon
+- Integrate with excel (?)
