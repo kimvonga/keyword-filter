@@ -1,5 +1,5 @@
 # keyword-filter
-Filters .pdf for particular and new keywords. Written in .ipynb. Project requested by Minh
+Filters .pdf for particular and new keywords. Written in python
 
 3/1/2021 - v 1.0.0
 - Updated functions to use the class Transcript() and moved functions to keyword_lib.py.
